@@ -22,7 +22,7 @@ To use this library in your project, include the following dependencies in your 
 ```xml
 <dependency>
     <groupId>com.utkarshupendra</groupId>
-    <artifactId>groq-client</artifactId>
+    <artifactId>groq-java</artifactId>
     <version>{version}</version>
 </dependency>
 ```
@@ -30,7 +30,7 @@ To use this library in your project, include the following dependencies in your 
 If you are using Gradle, add the following to your `build.gradle` file:
 
 ```gradle
-implementation 'com.utkarshupendra:groq-client:{version}'
+implementation 'com.utkarshupendra:groq-java:{version}'
 ```
 
 ---
